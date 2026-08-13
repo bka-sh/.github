@@ -1,11 +1,11 @@
 <div align="center">
   <br />
 
-  <img src="https://raw.githubusercontent.com/lawsuit-wtf/.github/refs/heads/main/profile/logo.png" width="180" alt="Lawsuit Logo" />
+  <img src="https://raw.githubusercontent.com/lawsuit-wtf/.github/refs/heads/main/profile/logo.png" width="180" alt="bkalogo" />
 
-  <h1>lawsuit</h1>
+  <h1>bka</h1>
 
-  <p><strong>Private audio logger bot</strong></p>
+  <p><strong>audio logger bot (roblox)</strong></p>
 
   <img src="https://komarev.com/ghpvc/?username=lawsuit-wtf&style=flat-square&color=EA72A7&label=PROFILE+VIEWS" alt="Profile Views" />
 
@@ -18,18 +18,5 @@
   </a>
 
   <br /><br />
-
-  <table>
-    <tr>
-      <td align="center">
-        <b>Founder</b><br />
-        <a href="https://github.com/juntttttttt">@0x4ae82ca512b9f26ed5f18c2b7a90e3</a>
-      </td>
-    </tr>
-  </table>
-
-  <br />
-  <hr width="50%" />
-  <br />
 
 </div>
